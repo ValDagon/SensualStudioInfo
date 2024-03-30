@@ -1,0 +1,29 @@
+﻿# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+VERSION="2.5.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[
+"GAD3CNIH6CYBKW5HTFBWWGCXJUDUQZMIKZ7JGA7O4RRUCZPX5HSKRTWG"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Sensual Studio"
+ORG_DBA="Sensual Studio"
+ORG_URL="https://sensual-station.online"
+ORG_LOGO="https://github.com/ValDagon/SensualStudioInfo/blob/97318e2a1bcb0d2a9536311da318b44b2ddae713/LOGO-END.png"
+ORG_DESCRIPTION=""
+ORG_GITHUB=""
+ORG_OFFICIAL_EMAIL=""
+ORG_SUPPORT_EMAIL=""
+
+[[CURRENCIES]]
+code="SNST"
+issuer="GAD3CNIH6CYBKW5HTFBWWGCXJUDUQZMIKZ7JGA7O4RRUCZPX5HSKRTWG"
+status="live"
+display_decimals=1
+anchor_asset_type="other"
+is_asset_anchored=false
+name="Sensual Studio"
+desc="Welcome to the world of Sensual Studio!"
+image="https://github.com/ValDagon/SensualStudioInfo/blob/97318e2a1bcb0d2a9536311da318b44b2ddae713/LOGO-END.png"
